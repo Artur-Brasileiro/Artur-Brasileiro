@@ -1,8 +1,16 @@
+<h2 align="left">About Me</h2>
+
+###
+
 <p align="left">- Computer engineering student<br>- Student programmer<br>- Electronics enthusiast</p>
 
 ###
 
-<div align="center">
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height="40" alt="kotlin logo"  />
@@ -13,6 +21,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
+
+###
+
+<h2 align="left">Stats</h2>
 
 ###
 
