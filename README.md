@@ -73,11 +73,6 @@
 <br/>
 <br/>
 
-<img width="850" src="https://github-profile-trophy.vercel.app/?username=Artur-Brasileiro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Troféus" />
-
-<br/>
-<br/>
-
 <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=Artur-Brasileiro&theme=tokyo-night&hide_border=true&area=true&radius=16" alt="Gráfico de atividade" />
 
 </div>
