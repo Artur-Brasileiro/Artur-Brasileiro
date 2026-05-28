@@ -36,6 +36,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-8254DE?style=for-the-badge&logo=easyeda&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
 
 **🌐 Desenvolvimento Web**
 
@@ -66,7 +68,12 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Artur-Brasileiro&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img width="850" src="https://github-readme-streak-stats.herokuapp.com?user=Artur-Brasileiro&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
+
+<br/>
+<br/>
+
+<img width="850" src="https://github-profile-trophy.vercel.app/?username=Artur-Brasileiro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Troféus" />
 
 <br/>
 <br/>
