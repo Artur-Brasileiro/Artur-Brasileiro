@@ -63,8 +63,8 @@
 
 <div align="center">
 
-<img height="176" src="https://github-readme-stats-lemon-five.vercel.app/api?username=Artur-Brasileiro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="176" src="https://github-readme-stats-lemon-five.vercel.app/api/top-langs?username=Artur-Brasileiro&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&locale=pt-br&card_width=455" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats-lemon-five.vercel.app/api?username=Artur-Brasileiro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=pt-br&card_width=437" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats-lemon-five.vercel.app/api/top-langs?username=Artur-Brasileiro&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&locale=pt-br&card_width=400" alt="Linguagens mais usadas" />
 
 <br/>
 
