@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://artur-brasileiro.github.io/Portfolio/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://artur-brasileiro.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-brasileiro)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=arturbrasileiro00@gmail.com)
 
@@ -23,7 +23,7 @@
 - ⚡ Foco em **eletrônica e sistemas embarcados** (Arduino, ESP32)
 - 🌐 Também desenvolvo **aplicações web modernas**
 - 🔌 Entusiasta de eletrônica — sempre construindo e aprendendo algo novo
-- 🚀 Conheça meus projetos no meu **[portfólio](https://artur-brasileiro.github.io/Portfolio/)**
+- 🚀 Conheça meus projetos no meu **[portfólio](https://artur-brasileiro.github.io/)**
 
 ---
 
@@ -83,7 +83,7 @@
 
 ## 📫 Vamos conversar?
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://artur-brasileiro.github.io/Portfolio/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://artur-brasileiro.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-brasileiro)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=arturbrasileiro00@gmail.com)
 
