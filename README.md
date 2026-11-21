@@ -23,7 +23,7 @@
 - ⚡ Foco em **eletrônica e sistemas embarcados** (Arduino, ESP32)
 - 🌐 Também desenvolvo **aplicações web modernas**
 - 🔌 Entusiasta de eletrônica — sempre construindo e aprendendo algo novo
-- 🚀 Conheça meus projetos no meu **[portfólio](https://artur-brasileiro.github.io/)**
+- 🚀 Conheça meus projetos no meu **[portfólio](https://arturbrasileiro.com.br/)**
 
 ---
 
